@@ -1,0 +1,5 @@
+numpy~=1.26.4
+streamlit~=1.39.0
+av~=12.3.0
+torch~=2.4.1
+ultralytics~=8.3.13
